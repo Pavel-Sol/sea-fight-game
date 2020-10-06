@@ -50,7 +50,7 @@ var model = {
             }
         }
         view.displayMiss(guess);
-        view.displayMessage("You missed.");
+        view.displayMessage("Ты промазал.");
         return false;
     },
 

@@ -1,0 +1,36 @@
+@media screen and (max-width: 992px) {
+    table{
+        position: absolute;
+        left: 173px;
+        top: 98px;
+        border-spacing: 0px;
+    }
+
+    div#board {
+        position: relative;
+        width: 1024px;
+        height: 863px;
+        margin: auto;
+        background: url("../img/board.jpg") no-repeat;
+    }
+
+    td{
+        width: 96px;
+        height: 96px;
+    }
+
+    form{
+        width: 480px;
+        top: 900px;
+        right: 30%;
+        height: 120px;
+    }
+
+    #fireButton, #guessInput {
+        font-size: 40px;
+    }
+
+    div#messageArea {
+        left: 20%;
+    }
+}
