@@ -1,5 +1,3 @@
-
-
 // Здесь наше представление
 var view = {
     displayMessage: function (msg) {
