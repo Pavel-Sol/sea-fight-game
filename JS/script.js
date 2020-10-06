@@ -1,4 +1,4 @@
-// Здесь наше представление
+// Здесь наше представление  .
 var view = {
     displayMessage: function (msg) {
         var messageArea = document.querySelector('#messageArea');
