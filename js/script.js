@@ -35,15 +35,15 @@ var model = {
             var index = ship.locations.indexOf(guess);
 
             if (ship.hits[index] === "hit") {
-                view.displayMessage("Oops, you already hit that location!");
+                view.displayMessage("Вы уже обстреливали этот квадрат!");
                 return true;
             } else if (index >= 0) {
                 ship.hits[index] = "hit";
                 view.displayHit(guess);
-                view.displayMessage("HIT!");
+                view.displayMessage("Попал!");
 
                 if (this.isSunk(ship)) {
-                    view.displayMessage("You sank my battleship!");
+                    view.displayMessage("Вы потопили корабль!");
                     this.shipsSunk++;
                 }
                 return true;
