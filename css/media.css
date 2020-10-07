@@ -33,4 +33,10 @@
     div#messageArea {
         left: 20%;
     }
+
+    #description-button {
+        top: 1070px;
+        left: 25%;
+        font-size: 40px;
+    }
 }

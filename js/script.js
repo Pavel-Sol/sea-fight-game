@@ -177,3 +177,17 @@ function handleKeyPress(e) {
 }
 
 window.onload = init;
+
+// -------------------------
+
+document.getElementById('description-button').onclick = showDesc
+
+function showDesc() {
+    document.querySelector('.description').classList.add('active')
+}
+
+document.querySelector('.close').onclick = closeDesc
+
+function closeDesc() {
+    document.querySelector('.description').classList.remove('active')
+}
