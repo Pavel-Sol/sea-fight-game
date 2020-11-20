@@ -13,8 +13,8 @@ Created using the MVC. Concept of the game: You need to sink 3 ships hidden in t
 
 Tech Stack
 ----------
-![]https://img.shields.io/badge/-<html>-<red>
+![](https://img.shields.io/badge/-<html>-<red>)
 
-![]https://img.shields.io/badge/-<css>-<informational>
+![](https://img.shields.io/badge/-<css>-<informational>)
 
-![]https://img.shields.io/badge/-<javascript>-<yellou>
+![](https://img.shields.io/badge/-<javascript>-<yellou>)

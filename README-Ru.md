@@ -12,8 +12,8 @@ Demo => [Github page](https://pavel-sol.github.io/sea-fight-game/)
 
 Использованные технологии:
 --------------------------
-![]https://img.shields.io/badge/-<html>-<red>
+![](https://img.shields.io/badge/-<html>-<red>)
 
-![]https://img.shields.io/badge/-<css>-<informational>
+![](https://img.shields.io/badge/-<css>-<informational>)
 
-![]https://img.shields.io/badge/-<javascript>-<yellou>
+![](https://img.shields.io/badge/-<javascript>-<yellou>)
